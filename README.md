@@ -15,7 +15,7 @@ This repository contains my independent solutions for real-world relational data
 ## 📂 Case Study Assets
 
 * 📄 **Requirements:** [Company requirements document.docx](01-Database-Design/Company%20requirements%20document.docx)
-* 📊 **Conceptual Blueprint (Chen Notation):** [Company E.R Diagram.pdf](01-Database-Design/Company_E.R_Diagram.pdf)
+* 📊 **Conceptual Blueprint (Chen Notation):** [Company E.R Diagram.pdf](01-Database-Design_/Company_E.R_Diagram.pdf)
 * 📉 **Physical Blueprint (Crow's Foot):** ![Company Physical ER Diagram](01-Database-Design/Company_Physical_ER_Diagram.png)
 * 💾 **SQL Script:** [Company DB.sql](01-Database-Design/Company_DB.sql)
 
